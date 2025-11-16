@@ -1,3 +1,4 @@
+//hola mundo
 document.addEventListener('DOMContentLoaded', function () {
             
     const menuButton = document.getElementById('mobile-menu-button');
